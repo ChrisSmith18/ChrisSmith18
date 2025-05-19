@@ -35,8 +35,6 @@
 *A: I used structured templates, followed professional writing guidelines, and applied feedback to refine my CV.
 *R: I produced a strong, polished CV that accurately reflects my skills and achievements.
 
-
-
 ### CV Submission
 ![CV Submission](CvSubmission.PNG)
 [View my CV](ChristianSmithCVprt1.pdf)
