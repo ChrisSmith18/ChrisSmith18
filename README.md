@@ -26,7 +26,7 @@
 * R: I learned how my personality influences teamwork, decision-making, and career preferences.
 
 ### Create A CV
-![Create A CV](CreateACV.png)
+![Create A CV](CvCreation.png)
 *Reflection*
 * S: I completed a course on creating a CV to improve how I present myself to potential employers.
 * T: I needed to draft a professional CV that accurately represents my skills and experiences.
@@ -34,7 +34,7 @@
 * R: I produced a polished CV that effectively highlights my strengths and achievements.
 
 ### CV Submission
-![CV Submission](CVSubmission.png)
+![CV Submission](CvSubmission.png)
 [View my CV](Sufyaan_Rawoot_221075127_CV.pdf)
 
 *Reflection*
