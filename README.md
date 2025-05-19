@@ -36,6 +36,7 @@
 ### CV Submission
 ![CV Submission](CvSubmission.PNG)
 [View my CV](ChristianSmithCVprt1.pdf)
+
 *Reflection*
 * S: I completed the CV Submission course to finalise and submit a professional CV.
 * T: The task was to enhance the quality of my CV and ensure it leaves a positive impression on employers.
