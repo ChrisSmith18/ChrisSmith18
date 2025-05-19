@@ -35,7 +35,7 @@
 
 ### CV Submission
 ![CV Submission](CvSubmission.PNG)
-[View my CV](Sufyaan_Rawoot_221075127_CV.pdf)
+[View my CV](ChristianSmithCVprt1.pdf)
 
 *Reflection*
 * S: I completed a course on how to perfect my CV.
