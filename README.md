@@ -35,7 +35,7 @@
 
 ### CV Submission
 ![CV Submission](CvSubmission.PNG)
-[View my CV](ChristianSmithCVprt1.pdf)
+[View my CV](CV_Christian_Smith.pdf)
 
 *Reflection*
 * S: I completed the CV Submission course to finalise and submit a professional CV.
