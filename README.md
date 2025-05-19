@@ -10,7 +10,7 @@
 * R: I gained clarity on my career direction and developed a focused plan for my future.
 
 ### Skills and Interests
-![Skills And Interests](SkillsAndInterests.png)
+![Skills And Interests](SkillsAndInterests.PNG)
 *Reflection*
 * S: I completed the Skills and Interests course to better understand what I’m good at and what motivates me.
 * T: My task was to identify key skills and interests that align with career opportunities.
@@ -18,7 +18,7 @@
 * R: I discovered a clearer connection between my abilities and potential job roles I would enjoy.
 
 ### Personality Assessment
-![Personality Assessment](PersonalityAssessment.png)
+![Personality Assessment](PersonalityAssessment.PNG)
 *Reflection*
 * S: I completed a Personality Assessment course to understand how my personality affects my career choices.
 * T: The goal was to evaluate my personality type and how it fits in work environments.
@@ -26,7 +26,7 @@
 * R: I learned how my personality influences teamwork, decision-making, and career preferences.
 
 ### Create A CV
-![Create A CV](CvCreation.png)
+![Create A CV](CvCreation.PNG)
 *Reflection*
 * S: I completed a course on creating a CV to improve how I present myself to potential employers.
 * T: I needed to draft a professional CV that accurately represents my skills and experiences.
@@ -34,7 +34,7 @@
 * R: I produced a polished CV that effectively highlights my strengths and achievements.
 
 ### CV Submission
-![CV Submission](CvSubmission.png)
+![CV Submission](CvSubmission.PNG)
 [View my CV](Sufyaan_Rawoot_221075127_CV.pdf)
 
 *Reflection*
