@@ -9,7 +9,6 @@
 *A: I engaged in self-assessment activities and reflective exercises to analyse how my personal profile aligns with potential careers.
 *R: I developed a clearer understanding of my career direction and created a focused plan for my future.
  
-
 ### Skills and Interests
 ![Skills And Interests](SkillsAndInterests.PNG)
 *Reflection*
@@ -26,7 +25,6 @@
 *A: I completed personality tests and reflected on the results to understand how different roles and teams align with my style.
 *R: I discovered how my personality influences collaboration, decision-making, and career preferences.
 
-
 ### Create A CV
 ![Create A CV](CvCreation.PNG)
 *Reflection*
@@ -38,7 +36,6 @@
 ### CV Submission
 ![CV Submission](CvSubmission.PNG)
 [View my CV](ChristianSmithCVprt1.pdf)
-
 *Reflection*
 *S: I completed the CV Submission course to finalise and submit a professional CV.
 *T: The task was to enhance the quality of my CV and ensure it leaves a positive impression on employers.
