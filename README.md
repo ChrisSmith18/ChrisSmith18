@@ -1,7 +1,7 @@
 # Digital Portfolio
 ## Christian Smith
 
-### Career Counselling
+### 1. Career Counselling
 ![Career Counselling](CareerDevelopment.PNG)
 **Reflection**
 
@@ -10,7 +10,7 @@
 * **A** : I engaged in self-assessment activities and reflective exercises to analyse how my personal profile aligns with potential careers.
 * **R** : I developed a clearer understanding of my career direction and created a focused plan for my future.
  
-### Skills and Interests
+### 2. Skills and Interests
 ![Skills And Interests](SkillsAndInterests.PNG)
 **Reflection**
 * **S** : I completed the Skills and Interests course to better understand my strengths and what motivates me.
@@ -18,7 +18,7 @@
 * **A** : I worked through quizzes and reflective tasks that helped me recognise my strongest abilities and areas for growth.
 * **R** : I gained valuable insights into how my skills and passions relate to career paths that suit me.
 
-### Personality Assessment
+### 3. Personality Assessment
 ![Personality Assessment](PersonalityAssessment.PNG)
 **Reflection**
 * **S** : I completed the Personality Assessment course to understand how my personality impacts my career decisions.
@@ -26,7 +26,7 @@
 * **A** : I completed personality tests and reflected on the results to understand how different roles and teams align with my style.
 * **R** : I discovered how my personality influences collaboration, decision-making, and career preferences.
 
-### Create A CV
+### 4. Create A CV
 ![Create A CV](CvCreation.PNG)
 **Reflection**
 * **S** : I completed the Create a CV course to learn how to professionally present my qualifications and experiences.
@@ -34,7 +34,7 @@
 * **A** : I used structured templates, followed professional writing guidelines, and applied feedback to refine my CV.
 * **R** : I produced a strong, polished CV that accurately reflects my skills and achievements.
 
-### CV Submission
+### 5. CV Submission
 ![CV Submission](CvSubmission.PNG)
 [View my CV](CV_Christian_Smith.pdf)
 
@@ -44,7 +44,7 @@
 * **A** : I evaluated different templates, applied feedback, and selected the best format to showcase my experience.
 * **R** : I have a completed, high-quality CV that I feel confident submitting to job opportunities.
 
-### Business Communication
+### 6. Business Communication
 ![Business Communication](BusinessComm.png)
 
 **Reflection**
@@ -53,7 +53,7 @@
 * **A** : I learned key techniques for writing professional emails, conducting meetings, and presenting ideas clearly.  
 * **R** : I developed stronger communication skills that will help me convey ideas confidently in professional environments.
 
-### Interview Skills
+### 7. Interview Skills
 ![Interview Skills](InterviewSkills.png)
 
 **Reflection**
@@ -62,7 +62,7 @@
 * **A** : I practiced common interview questions, refined my answers, and learned how to present myself professionally.  
 * **R** : I developed stronger interview techniques and now feel more prepared to make a positive impression on employers.
 
-### Mock Interview
+### 8. Mock Interview
 ![Mock Interview](MockInterview.png)
 
 **Reflection**
@@ -71,7 +71,7 @@
 * **A** : I participated in a mock interview session, answered common questions, and reflected on areas for improvement.  
 * **R** : I gained valuable experience, increased my confidence, and learned how to refine my responses for future interviews.
 
-### Professional Networking
+### 9. Professional Networking
 ![Professional Networking](ProfessionalNetworking.png)
 
 **Reflection**
@@ -80,7 +80,7 @@
 * **A** : I explored different networking platforms, practiced professional communication, and identified key contacts in my field.  
 * **R** : I gained confidence in engaging with professionals and developed strategies to grow and sustain a strong career network.
 
-### Workplace Etiquette
+### 10. Workplace Etiquette
 ![Workplace Etiquette](WorkplaceEtiquette.png)
 
 **Reflection**
