@@ -44,3 +44,52 @@
 * **A** : I evaluated different templates, applied feedback, and selected the best format to showcase my experience.
 * **R** : I have a completed, high-quality CV that I feel confident submitting to job opportunities.
 
+### Business Communication
+![Business Communication](BusinessComm.png)
+
+**Reflection**
+* **S** : I completed the Business Communication course to improve my ability to communicate effectively in a professional setting.  
+* **T** : The goal was to enhance my written and verbal communication skills for workplace interactions.  
+* **A** : I learned key techniques for writing professional emails, conducting meetings, and presenting ideas clearly.  
+* **R** : I developed stronger communication skills that will help me convey ideas confidently in professional environments.
+
+### Interview Skills
+![Interview Skills](InterviewSkills.png)
+
+**Reflection**
+* **S** : I completed the Interview Skills course to learn effective strategies for performing well in job interviews.  
+* **T** : My goal was to gain confidence and improve my ability to communicate my strengths during interviews.  
+* **A** : I practiced common interview questions, refined my answers, and learned how to present myself professionally.  
+* **R** : I developed stronger interview techniques and now feel more prepared to make a positive impression on employers.
+
+### Mock Interview
+![Mock Interview](MockInterview.png)
+
+**Reflection**
+* **S** : I completed the Mock Interview course to apply and practice the interview techniques I learned.  
+* **T** : My goal was to simulate real interview conditions and receive constructive feedback on my performance.  
+* **A** : I participated in a mock interview session, answered common questions, and reflected on areas for improvement.  
+* **R** : I gained valuable experience, increased my confidence, and learned how to refine my responses for future interviews.
+
+### Professional Networking
+![Professional Networking](ProfessionalNetworking.png)
+
+**Reflection**
+* **S** : I completed the Professional Networking course to learn how to build and maintain valuable career connections.  
+* **T** : My goal was to understand effective strategies for professional networking, both online and in person.  
+* **A** : I explored different networking platforms, practiced professional communication, and identified key contacts in my field.  
+* **R** : I gained confidence in engaging with professionals and developed strategies to grow and sustain a strong career network.
+
+### Workplace Etiquette
+![Workplace Etiquette](WorkplaceEtiquette.png)
+
+**Reflection**
+* **S** : I completed the Workplace Etiquette course to understand the standards of professionalism in different work environments.  
+* **T** : My goal was to learn how to conduct myself appropriately and respectfully in the workplace.  
+* **A** : I studied various workplace scenarios, communication styles, and professional behaviour expectations.  
+* **R** : I developed a strong understanding of workplace conduct, which will help me build positive relationships and maintain professionalism in any role.
+
+
+
+
+
